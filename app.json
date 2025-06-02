@@ -22,26 +22,26 @@
           "description": "Set this to True if you don't want to crash the bot",
           "value": "True"
       },
-      "APP_NAME": {
+      "APP_NAME": {starkmv
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {
+      "API_ID": {7272529
           "description": "Get this value from https://my.telegram.org"
       },
-      "API_HASH": {
+      "API_HASH": {68532ee254128bd6f169a1b32bde7db5
           "description": "Get this value from https://my.telegram.org"
       },
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {7726506340:AAFNvFJzZlkb-IZ5uP_Fw8aRxxY28lRPS9U
           "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
           
       },
-      "DATABASE_URL": {
+      "DATABASE_URL": {mongodb+srv://therockers868:therockers866@cluster0.rozyzt7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
           "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
       },
-      "OWNER_ID": {
+      "OWNER_ID": {700871056
           "description": "Your Telegram User ID  like 1234509"
       },
       "BANNED_CHANNELS": {
@@ -54,7 +54,7 @@
           "required": false
           
       },
-      "OWNER_USERNAME": {
+      "OWNER_USERNAME": {starkmv
           "description": "Enter your username without @  example  adarsh."
       },
       "SLEEP_THRESHOLD": {
