@@ -25,13 +25,13 @@
       "APP_NAME": {starkmv
           "description": "Copy-Paste the app name that you just typed above."
       },
-      "API_ID": {7272529
+      "API_ID": {-7272529
           "description": "Get this value from https://my.telegram.org"
       },
       "API_HASH": {68532ee254128bd6f169a1b32bde7db5
           "description": "Get this value from https://my.telegram.org"
       },
-      "BOT_TOKEN": {7726506340:AAFNvFJzZlkb-IZ5uP_Fw8aRxxY28lRPS9U
+      "BOT_TOKEN": {-7726506340:AAFNvFJzZlkb-IZ5uP_Fw8aRxxY28lRPS9U
           "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
